@@ -1,0 +1,21 @@
+.head {
+  background-color: #f3eae8;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+}
+.heading {
+  align-self: center;
+}
+
+@media screen and (max-width: 770px) {
+  .heading {
+    font-size: medium;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .heading {
+    font-size: small;
+  }
+}

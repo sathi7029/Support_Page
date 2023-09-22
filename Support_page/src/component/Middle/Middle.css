@@ -1,0 +1,49 @@
+.sform {
+  display: flex;
+  flex-direction: column;
+  width: 50vh;
+  padding: 40px;
+  background-color: #f3eae8;
+  border-radius: 15px;
+  margin-top: 20px;
+  border: 1px solid black;
+}
+.f {
+  margin-bottom: 20px;
+}
+.form {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+.input {
+  padding: 15px;
+  border-radius: 10px;
+}
+.btn {
+  background-color: white;
+  padding: 10px;
+  border: none;
+  border: 1px solid black;
+}
+
+.btn:hover {
+  color: black;
+  font-weight: bolder;
+  transition: 0.5s ease-in-out;
+  border-radius: 15px;
+  cursor: pointer;
+  background-color: #f3eae8;
+}
+
+@media Screen and (max-width: 770px) {
+  .sform {
+    width: 40vh;
+  }
+}
+
+@media Screen and (max-width: 480px) {
+  .sform {
+    width: 35vh;
+  }
+}

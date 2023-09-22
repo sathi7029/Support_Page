@@ -1,0 +1,39 @@
+.foot {
+  background-color: #f3eae8;
+}
+.side {
+  display: flex;
+  justify-content: space-between;
+  padding: 25px;
+}
+.l {
+  list-style-type: none;
+  text-align: center;
+  color: blue;
+  text-decoration: underline;
+}
+.labell {
+  text-align: center;
+}
+.bottomb {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+@media Screen and (max-width: 770px) {
+  .rightr {
+    font-size: medium;
+  }
+  .leftl {
+    font-size: medium;
+  }
+}
+
+@media Screen and (max-width: 480px) {
+  .rightr {
+    font-size: small;
+  }
+  .leftl {
+    font-size: small;
+  }
+}
