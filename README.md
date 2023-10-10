@@ -8,15 +8,15 @@ This project showcases the development of a Support Page using React.js, Express
 - Database: MongoDB Atlas
 
 ## Advantages
-Efficient Customer Interaction: The support page provides a streamlined platform for managing customer interactions, ensuring timely responses and improved customer satisfaction. <br>
-Data Storage: MongoDB Atlas is utilized for its robust data storage capabilities, enabling secure and scalable management of customer support data.
+- Efficient Customer Interaction: The support page provides a streamlined platform for managing customer interactions, ensuring timely responses and improved customer satisfaction. <br> <p>
+- Data Storage: MongoDB Atlas is utilized for its robust data storage capabilities, enabling secure and scalable management of customer support data.
 
 ## Future Scope
-This project lays the foundation for further enhancements, including: <br>
-User Authentication: Implement user authentication for secure access to customer data and support functionalities. <br>
-Real-time Chat: Incorporate real-time chat features to facilitate instant communication between customers and support agents.<br>
-Analytics Dashboard: Develop an analytics dashboard to gain insights into customer interactions and support performance. <br>
-Integration: Explore integration with external CRM tools for a comprehensive customer support ecosystem. 
+- This project lays the foundation for further enhancements, including: <br> <p>
+- User Authentication: Implement user authentication for secure access to customer data and support functionalities. <br> <p>
+- Real-time Chat: Incorporate real-time chat features to facilitate instant communication between customers and support agents.<br> <p>
+- Analytics Dashboard: Develop an analytics dashboard to gain insights into customer interactions and support performance. <br> <p>
+- Integration: Explore integration with external CRM tools for a comprehensive customer support ecosystem. 
 
 ## Demo Link
 <a href="https://sr-support-page-client.vercel.app/">link</a>
